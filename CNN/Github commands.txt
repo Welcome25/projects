@@ -1,0 +1,11 @@
+git init
+
+git add .
+
+git commit -m "Add CNN CIFAR-10 image classification project"
+
+git branch -M main
+
+git remote add origin https://github.com/YOUR_USERNAME/cnn-cifar10-classification.git
+
+git push -u origin main
