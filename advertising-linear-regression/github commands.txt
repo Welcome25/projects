@@ -1,0 +1,11 @@
+git init
+
+git add .
+
+git commit -m "Add advertising sales linear regression project"
+
+git branch -M main
+
+git remote add origin https://github.com/YOUR_USERNAME/advertising-linear-regression.git
+
+git push -u origin main
