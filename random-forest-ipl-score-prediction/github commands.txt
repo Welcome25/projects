@@ -1,0 +1,11 @@
+git init
+
+git add .
+
+git commit -m "Add Random Forest IPL score prediction project"
+
+git branch -M main
+
+git remote add origin https://github.com/YOUR_USERNAME/random-forest-ipl-score-prediction.git
+
+git push -u origin main
