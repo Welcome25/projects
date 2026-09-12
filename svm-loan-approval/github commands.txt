@@ -1,0 +1,11 @@
+git init
+
+git add .
+
+git commit -m "Add SVM loan approval prediction project"
+
+git branch -M main
+
+git remote add origin https://github.com/YOUR_USERNAME/svm-loan-approval.git
+
+git push -u origin main
